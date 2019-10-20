@@ -62,6 +62,7 @@ public class NewTest {
   public void testThisShouldPass() throws InterruptedException {
       Thread.sleep(4000);
       System.out.println("´Ë´¦Í£¶Ù5Ãë");
+      System.out.println("µ÷ÊÔ");
   }
 
   /*@Test(timeOut = 1000)
