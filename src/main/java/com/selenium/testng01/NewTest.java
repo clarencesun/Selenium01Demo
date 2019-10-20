@@ -64,6 +64,7 @@ public class NewTest {
       System.out.println("此处停顿5秒");
       System.out.println("调试");
       System.out.println("调试2");
+      System.out.println("调试3");
   }
 
   /*@Test(timeOut = 1000)
