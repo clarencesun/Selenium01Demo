@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Testsuite" duration-ms="4080" started-at="2019-08-18T09:29:47Z" finished-at="2019-08-18T09:29:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4080" started-at="2019-08-18T09:29:47Z" finished-at="2019-08-18T09:29:51Z">
+      <class name="com.selenium.testng01.NewTest">
+        <test-method status="PASS" signature="b1()[pri:0, instance:com.selenium.testng01.NewTest@7e0babb1]" name="b1" is-config="true" duration-ms="16" started-at="2019-08-18T17:29:47Z" finished-at="2019-08-18T17:29:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b1 -->
+        <test-method status="PASS" signature="b2()[pri:0, instance:com.selenium.testng01.NewTest@7e0babb1]" name="b2" is-config="true" duration-ms="0" started-at="2019-08-18T17:29:47Z" finished-at="2019-08-18T17:29:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b2 -->
+        <test-method status="PASS" signature="TestNgLearn1()[pri:0, instance:com.selenium.testng01.NewTest@7e0babb1]" name="TestNgLearn1" duration-ms="16" started-at="2019-08-18T17:29:47Z" finished-at="2019-08-18T17:29:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestNgLearn1 -->
+        <test-method status="PASS" signature="b3()[pri:0, instance:com.selenium.testng01.NewTest@7e0babb1]" name="b3" is-config="true" duration-ms="0" started-at="2019-08-18T17:29:47Z" finished-at="2019-08-18T17:29:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b3 -->
+        <test-method status="PASS" signature="a3()[pri:0, instance:com.selenium.testng01.NewTest@7e0babb1]" name="a3" is-config="true" duration-ms="0" started-at="2019-08-18T17:29:47Z" finished-at="2019-08-18T17:29:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a3 -->
+        <test-method status="PASS" signature="b3()[pri:0, instance:com.selenium.testng01.NewTest@7e0babb1]" name="b3" is-config="true" duration-ms="0" started-at="2019-08-18T17:29:47Z" finished-at="2019-08-18T17:29:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b3 -->
+        <test-method status="PASS" signature="b()[pri:0, instance:com.selenium.testng01.NewTest@7e0babb1]" name="b" duration-ms="0" started-at="2019-08-18T17:29:47Z" finished-at="2019-08-18T17:29:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method status="PASS" signature="b3()[pri:0, instance:com.selenium.testng01.NewTest@7e0babb1]" name="b3" is-config="true" duration-ms="0" started-at="2019-08-18T17:29:47Z" finished-at="2019-08-18T17:29:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b3 -->
+        <test-method status="PASS" signature="testThisShouldPass()[pri:0, instance:com.selenium.testng01.NewTest@7e0babb1]" name="testThisShouldPass" duration-ms="4012" started-at="2019-08-18T17:29:47Z" finished-at="2019-08-18T17:29:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThisShouldPass -->
+        <test-method status="PASS" signature="a3()[pri:0, instance:com.selenium.testng01.NewTest@7e0babb1]" name="a3" is-config="true" duration-ms="0" started-at="2019-08-18T17:29:47Z" finished-at="2019-08-18T17:29:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a3 -->
+        <test-method status="PASS" signature="b3()[pri:0, instance:com.selenium.testng01.NewTest@7e0babb1]" name="b3" is-config="true" duration-ms="0" started-at="2019-08-18T17:29:47Z" finished-at="2019-08-18T17:29:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b3 -->
+        <test-method status="PASS" signature="c()[pri:0, instance:com.selenium.testng01.NewTest@7e0babb1]" name="c" duration-ms="0" started-at="2019-08-18T17:29:47Z" finished-at="2019-08-18T17:29:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c -->
+        <test-method status="PASS" signature="a3()[pri:0, instance:com.selenium.testng01.NewTest@7e0babb1]" name="a3" is-config="true" duration-ms="0" started-at="2019-08-18T17:29:47Z" finished-at="2019-08-18T17:29:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a3 -->
+        <test-method status="PASS" signature="a3()[pri:0, instance:com.selenium.testng01.NewTest@7e0babb1]" name="a3" is-config="true" duration-ms="3" started-at="2019-08-18T17:29:51Z" finished-at="2019-08-18T17:29:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a3 -->
+        <test-method status="PASS" signature="b3()[pri:0, instance:com.selenium.testng01.NewTest@7e0babb1]" name="b3" is-config="true" duration-ms="0" started-at="2019-08-18T17:29:51Z" finished-at="2019-08-18T17:29:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b3 -->
+        <test-method status="PASS" signature="a3()[pri:0, instance:com.selenium.testng01.NewTest@7e0babb1]" name="a3" is-config="true" duration-ms="0" started-at="2019-08-18T17:29:51Z" finished-at="2019-08-18T17:29:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a3 -->
+        <test-method status="PASS" signature="a1()[pri:0, instance:com.selenium.testng01.NewTest@7e0babb1]" name="a1" is-config="true" duration-ms="0" started-at="2019-08-18T17:29:51Z" finished-at="2019-08-18T17:29:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a1 -->
+        <test-method status="PASS" signature="TestNgLearn2()[pri:0, instance:com.selenium.testng01.NewTest@7e0babb1]" name="TestNgLearn2" duration-ms="0" started-at="2019-08-18T17:29:51Z" depends-on-methods="com.selenium.testng01.NewTest.TestNgLearn1" finished-at="2019-08-18T17:29:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestNgLearn2 -->
+        <test-method status="PASS" signature="a2()[pri:0, instance:com.selenium.testng01.NewTest@7e0babb1]" name="a2" is-config="true" duration-ms="0" started-at="2019-08-18T17:29:51Z" finished-at="2019-08-18T17:29:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a2 -->
+      </class> <!-- com.selenium.testng01.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Testsuite -->
+</testng-results>
