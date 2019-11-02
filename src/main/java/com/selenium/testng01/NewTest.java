@@ -61,10 +61,11 @@ public class NewTest {
   @Test(timeOut = 5000) // time in mulliseconds
   public void testThisShouldPass() throws InterruptedException {
       Thread.sleep(4000);
-      System.out.println("´Ë´¦Í£¶Ù5Ãë");
-      System.out.println("µ÷ÊÔ");
-      System.out.println("µ÷ÊÔ2");
-      System.out.println("µ÷ÊÔ3");
+      System.out.println("è¿™æ˜¯1");
+      System.out.println("è¿™æ˜¯");
+      System.out.println("è¿™æ˜¯2");
+      System.out.println("è¿™æ˜¯3");
+      Assert.assertEquals(1, 2);
   }
 
   /*@Test(timeOut = 1000)

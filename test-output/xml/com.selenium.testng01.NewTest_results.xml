@@ -4,14 +4,14 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="4.030">
+           time="4.079">
   <properties />
   
   
-            <testcase name="b" time="0.006" classname="com.selenium.testng01.NewTest" />
-                <testcase name="testThisShouldPass" time="4.013" classname="com.selenium.testng01.NewTest" />
-                <testcase name="c" time="0.005" classname="com.selenium.testng01.NewTest" />
-                <testcase name="TestNgLearn1" time="0.005" classname="com.selenium.testng01.NewTest" />
-                <testcase name="TestNgLearn2" time="0.001" classname="com.selenium.testng01.NewTest" />
+            <testcase name="b" time="0.016" classname="com.selenium.testng01.NewTest" />
+                <testcase name="c" time="0.016" classname="com.selenium.testng01.NewTest" />
+                <testcase name="TestNgLearn2" time="0.000" classname="com.selenium.testng01.NewTest" />
+                <testcase name="TestNgLearn1" time="0.016" classname="com.selenium.testng01.NewTest" />
+                <testcase name="testThisShouldPass" time="4.031" classname="com.selenium.testng01.NewTest" />
       
 </testsuite>
